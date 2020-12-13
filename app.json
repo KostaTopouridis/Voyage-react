@@ -1,0 +1,12 @@
+{
+  "name": "Voyage",
+  "displayName": "Voyage",
+  "expo": {
+    "name": "Voyage",
+    "slug": "Voyage",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
